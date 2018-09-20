@@ -1,17 +1,22 @@
 * {padding: 0; margin:0;}
 :root {
-    --peach: #E6E1C5;
+    --blue: #587792;
     --tan: #D4CB92;
     --kushgreen: #395C6B;
     --sadblue: #80A4ED;
     --nobreathblue: #BCD3F2;
+    --pale: #FFEAD0;
+    --distance: #F4ECD6;
+    --light_taupe: #AD8A64;
+    --further: #4C5760;
+    --platinum : #E8EBE4;
 }
 html {height: 100%;}
-body {height: 100%; background: gold;}
-header{height: 10%; background: var(--peach);}
+body {height: 100%; background: var(--light_taupe);}
+header{height: 10%; background: var(--distance);}
 main{height: 80%; background: var(--tan);}
 footer{height: 10%; background: var(--kushgreen);}
-article {height: 100%; background: var(--sadblue); width: 60%; float:left;}
+article {height: 100%; background: var(--platinum); width: 60%; float:left;}
 aside {height: 100%; /*background: var(nobreathblue);*/ width: 40%; float: right;}
 article {overflow-y: scroll;}
 article section {margin-bottom: 5%; padding-left: 2%;}
