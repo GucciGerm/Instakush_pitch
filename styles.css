@@ -45,3 +45,6 @@ transition: opacity 500ms; vertical-align: middle;
 main:hover aside img {opacity: 1;}
 
 a {text-decoration: none; color:var(--kushgreen);}
+article > h1 {text-align: center;}
+section img {max-height: 45%; max-width: 45%;}
+.img-center {text-align: center;}
