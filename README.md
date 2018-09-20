@@ -1,2 +1,3 @@
-# noblemansion-sites
-Building websites
+# InstaKush
+Built by J&G for InstaKush. All rights reserved.
+
