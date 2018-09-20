@@ -15,7 +15,7 @@ html {height: 100%;}
 body {height: 100%; background: var(--light_taupe);}
 header{height: 10%; background: var(--distance);}
 main{height: 80%; background: var(--tan);}
-footer{height: 10%; background: var(--kushgreen);}
+footer{height: 10%; background: var(--distance); color: var(--kushgreen);}
 article {height: 100%; background: var(--platinum); width: 60%; float:left;}
 aside {height: 100%; /*background: var(nobreathblue);*/ width: 40%; float: right;}
 article {overflow-y: scroll;}
